@@ -1,0 +1,1 @@
+docker run jaelararipe/fullcycle3.0:latest
